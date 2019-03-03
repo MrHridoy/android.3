@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.mrhridoy.animationapp.Splash">
+
+    <TextView
+        android:id="@+id/text_spl"
+        android:textSize="45sp"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:shadowColor="#1f0eb4"
+        android:textColor="#5b1579"
+        android:text="Wellcome To My App"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>
